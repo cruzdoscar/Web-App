@@ -1,4 +1,4 @@
-# Proyecto Final: Aplicación Web de Análisis de Ventas de Vehículos
+# Aplicación Web de Análisis de Ventas de Vehículos
 
 ## Descripción General del Proyecto
 
