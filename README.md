@@ -9,3 +9,6 @@ El objetivo principal de este proyecto es demostrar habilidades de **Ingenieria 
 2.  Creación y gestión de **entornos virtuales** de Python.
 3.  Desarrollo de una aplicación web interactiva con **Streamlit**.
 4.  Despliegue continuo (CI/CD) usando **Render.com**.
+
+link directo a la Web App:
+https://proyecto-sprint-7-u24s.onrender.com
